@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Applet 1",
+        "description": "Description for Applet 1",
+        "link": "./applet-1/index.html"
+    },
+    {
+        "title": "Applet 2",
+        "description": "Description for Applet 2",
+        "link": "./applet-2/index.html"
+    },
+    {
+        "title": "Applet 3",
+        "description": "Description for Applet 3",
+        "link": "./applet-3/index.html"
+    }
+]
